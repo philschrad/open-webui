@@ -168,8 +168,8 @@
 						{ left: '$$', right: '$$', display: false },
 						{ left: '$ ', right: ' $', display: false },
 						{ left: '\\(', right: '\\)', display: false },
-						{ left: '\\[', right: '\\]', display: false },
-						{ left: '[ ', right: ' ]', display: false }
+						{ left: '\\[', right: '\\]', display: true },
+						{ left: '[ ', right: ' ]', display: true }
 					],
 					// • rendering keys, e.g.:
 					throwOnError: false
